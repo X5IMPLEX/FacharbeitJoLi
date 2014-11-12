@@ -1,4 +1,5 @@
 import javax.swing.*;
+//giv dix plox
 public class matrizenrechner{
     int m;
     int n;
